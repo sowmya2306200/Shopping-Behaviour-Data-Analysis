@@ -18,7 +18,7 @@ Python
 - Recommendations for business strategies
 
 ## Files in this Repository
-- `shopping_behavior_analysis.ipynb` – containing the complete analysis  
+- `sourcecode.py` – containing the complete analysis  
 - `dataset.csv` – Dataset used for analysis  
 - `shopping behaviour Data Analaysis.pptx` – Project presentation slides  
 

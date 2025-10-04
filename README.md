@@ -7,9 +7,9 @@ This project analyzes shopping behavior data to understand customer preferences,
 - The dataset contains information on customer purchases, product categories, quantities, and other relevant shopping behavior metrics.
 - Data is analyzed using Python with libraries such as pandas, matplotlib, and seaborn.
 
-#### Technologies Used
-Python
--Libraries: Pandas, NumPy, Matplotlib
+   #### Technologies Used
+   -Python
+   -Libraries: Pandas, NumPy, Matplotlib
 
 ## Key Features
 - Exploratory Data Analysis (EDA)

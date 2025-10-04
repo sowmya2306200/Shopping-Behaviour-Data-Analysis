@@ -1,4 +1,4 @@
-# Shopping Behavior Data Analysis
+# Shopping Behaviour Data Analysis
 
 ## Overview
 This project analyzes shopping behavior data to understand customer preferences, purchasing patterns, and trends. The goal is to extract meaningful insights that can help businesses improve sales strategies and customer experience.
@@ -7,6 +7,10 @@ This project analyzes shopping behavior data to understand customer preferences,
 - The dataset contains information on customer purchases, product categories, quantities, and other relevant shopping behavior metrics.
 - Data is analyzed using Python with libraries such as pandas, matplotlib, and seaborn.
 
+##Tools Used
+Python
+-Libraries: Pandas, NumPy, Matplotlib
+
 ## Key Features
 - Exploratory Data Analysis (EDA)
 - Visualization of purchase patterns
@@ -14,8 +18,8 @@ This project analyzes shopping behavior data to understand customer preferences,
 - Recommendations for business strategies
 
 ## Files in this Repository
-- `shopping_behavior_analysis.ipynb` – Jupyter notebook containing the complete analysis  
+- `shopping_behavior_analysis.ipynb` – containing the complete analysis  
 - `dataset.csv` – Dataset used for analysis  
-- `presentation.pptx` – Project presentation slides  
+- `shopping behaviour Data Analaysis.pptx` – Project presentation slides  
 
 

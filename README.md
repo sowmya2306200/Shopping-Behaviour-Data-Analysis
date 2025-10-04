@@ -7,7 +7,7 @@ This project analyzes shopping behavior data to understand customer preferences,
 - The dataset contains information on customer purchases, product categories, quantities, and other relevant shopping behavior metrics.
 - Data is analyzed using Python with libraries such as pandas, matplotlib, and seaborn.
 
-##Tools Used
+#### Technologies Used
 Python
 -Libraries: Pandas, NumPy, Matplotlib
 
@@ -19,7 +19,27 @@ Python
 
 ## Files in this Repository
 - `sourcecode.py` – containing the complete analysis  
-- `dataset.csv` – Dataset used for analysis  
+- `shopping_behavior_updated.csv` – Dataset used for analysis  
 - `shopping behaviour Data Analaysis.pptx` – Project presentation slides  
 
+## Methodology
+1. **Data Collection:** Collected transactional data from [source].  
+2. **Data Cleaning:** Handled missing values, corrected data types, and removed duplicates.  
+3. **Exploratory Data Analysis:**  
+   - Customer demographics analysis  
+   - Product category preferences  
+   - Purchase frequency trends  
+4. **Visualization:**  
+   - Distribution of purchases per category  
+   - Heatmaps of correlation between variables  
+   - Trend analysis over time  
+5. **Insights & Recommendations:** Derived actionable strategies based on patterns observed.  
+
+---
+
+## Key Insights
+- Most popular product categories and high-demand items  
+- Peak shopping times and seasonal trends  
+- Customer segmentation based on purchase behavior  
+- Recommendations to improve sales and customer engagement  
 

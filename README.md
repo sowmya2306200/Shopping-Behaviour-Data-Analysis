@@ -9,6 +9,7 @@ The goal is to extract meaningful insights that can help businesses improve **sa
 ## 📂 Dataset
 - The dataset contains information on **customer purchases, product categories, quantities**, and other relevant shopping behavior metrics.  
 - Data is analyzed using **Python** with libraries such as **pandas, matplotlib**
+
 -https://www.kaggle.com/datasets/zubairamuti/shopping-behaviours-dataset
 
 ### ⚙️ Technologies Used
